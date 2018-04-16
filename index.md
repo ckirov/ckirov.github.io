@@ -1,6 +1,12 @@
 My interests span across topics in natural language processing, computational linguistics, linguistics, and cognitive science. I am a member of the UniMorph project (unimorph.org) in the Center for Language and Speech Processing at JHU.
 
+For more information on UniMorph, see (unimorph.org) and (unimorph.github.io). 
+
+UniMorph data hasbeen the backbone recenter shared tasks in computational morphology.
+
 **Contact**
+
+ckirov gmail com
 
 [**CV**](cv/latest.pdf)
 
