@@ -7,7 +7,9 @@
   <img width="300" align="center" src="cropped.jpg"> 
 </p>
 
-My interests span across topics in natural language processing, computational linguistics, linguistics, and cognitive science. I am a member of the UniMorph project (unimorph.org) in the Center for Language and Speech Processing at JHU.
+I'm currently a Postdoctoral Fellow at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I'm one of the main members of the [UniMorph](www.unimorph.org) project. Before coming to JHU, I was a Postdoctoral Assistant Professor at the [Georgetown Linguistics Department](https://linguistics.georgetown.edu/). 
+
+I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans muliple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal relates to human language performance.
 
 **Details**
 
