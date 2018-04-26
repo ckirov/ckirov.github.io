@@ -1,4 +1,12 @@
-<img width="300" align="left" src="photo1.jpg"> My interests span across topics in natural language processing, computational linguistics, linguistics, and cognitive science. I am a member of the UniMorph project (unimorph.org) in the Center for Language and Speech Processing at JHU.
+
+<!---
+<img width="200" align="left" src="headshot.jpg"> 
+-->
+
+<img width="200" src="headshot.jpg"> 
+
+
+My interests span across topics in natural language processing, computational linguistics, linguistics, and cognitive science. I am a member of the UniMorph project (unimorph.org) in the Center for Language and Speech Processing at JHU.
 
 For more information on UniMorph, see (unimorph.org) and (unimorph.github.io). 
 
