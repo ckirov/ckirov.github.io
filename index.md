@@ -10,6 +10,22 @@ ckirov gmail com
 
 [**CV**](cv/latest.pdf)
 
+
+## Current Activities
+
+The **UniMorph** project provides morphologically-annotated lexical data and tools spanning a large, typologically diverse set of languages. Check [here](www.github.org) for an overview, or jump to our data portal [here](https://unimorph.github.io/).
+
+UniMorph is supported by the DARPA **LORELEI** (Low Resource Languages for Emergent Incidents) program, which is focused on developing language technologies to facilitate communication in disaster-prone areas of the world where translators are scarce.
+
+I am one of the organizers of the **CoNLL-SIGMORPHON 2018** shared task on morphological learning. Thanks to resources provided by UniMorph, the shared task covers over 100 languages! Check it out [here](https://sigmorphon.github.io/sharedtasks/2018/).
+
+
+## Software
+
+See my GitHub page [here](https://github.com/ckirov/).
+
+Morphological analysis software developed as part of UniMorph is available [here](https://github.com/unimorph/analyzers).
+
 ## Publications
 
 **Christo Kirov**, Ryan Cotterell, John Sylak-Glassman, Géraldine Walther, Ekaterian Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2018). _UniMorph 2.0: Universal Morphology_.  LREC. Miyazaki, Japan.
@@ -48,48 +64,49 @@ John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A
 
 **Christo Kirov** and Adamantios Gafos (2007). _Dynamic Phonetic Detail in Lexical Representations_. ICPHS. Saarbrucken, Germany. pp. 637-640.
 
-## Presentations
-
-Cotterell, Ryan, Kirov, Christo, Hulden, Mans, and Eisner, Jason. 2018. The Pareto Complexity of Inflectional Systems. SCIL. Salt Lake City, Utah.
-
-Sylak-Glassman, John, Kirov, Christo, Yarowsky, David, and Que, Roger. 2015. Typology Enriching NLP: A Universal Schema for Inflectional Morphology. ALT. New Mexico.
-
-Kirov, Christo and Wilson, Colin. 2013. Modeling the Relationship Between Competition, Latency, and Articulation. LSA. Boston, MA.
-
-Kirov, Christo and Wilson, Colin. 2012. Modeling Speech Production with Bayesian Inference:  Competition, Latency, and Articulation. APCAM. Minneapolis, MN.
-
-Kirov, Christo and Wilson, Colin. 2012.  Specificity of Online Variation in Speech Production.  LSA, Portland, Oregon.
-
-Kirov, Christo. 2011. Explaining Online Hyperarticulation in Speech Production. NECPHON, Yale University, New Haven, Connecticut.
-
-Kirov, Christo. 2017. Recurrent Neural Networks as a Strong Baseline for Morphophonological Learning. LSA. Austin, TX. 
-
-Kirov, Christo. 2014. Grammatical Influences in a Bayesian Speech Production Framework. COGSCI. Quebec City, Quebec.
-
-Kirov, Christo and Wilson, Colin. 2012. How Phonological Context Affects Phonetic Realization.  LABPHON. Stuttgart, Germany.
-
-Kirov, Christo. 2008. Forward and Reverse Recall in Simple Recurrent Networks. COGSCI, Washington, D.C.
-
 ## Invited Talks
 
-Kirov, Christo. 2017. Morphological Modeling for Multi-lingual NLP. GUCL. Georgetown University.
+**Christo Kirov** (2017). _Computational Morphophonology - Bridging NLP and Linguistics_. University of Chicago.
 
-Kirov, Christo. 2016. UniMorph --- Universal Morphology at JHU. Center For Language and Speech Processing Seminar Series. Johns Hopkins University. Video: \\
-http://www.clsp.jhu.edu/seminars/seminar-videos/
+**Christo Kirov** (2017). _Morphological Modeling for Multi-lingual NLP_. GUCL. Georgetown University.
 
-Kirov, Christo. 2015. The Consequences of Bayesian Decision-Making in Speech Production. Common Ground Speaker Series. University of Pennsylvania.
+**Christo Kirov** (2016). _Building Strong Inductive Baselines for Computational Morphophonology_. New York University.
 
+**Christo Kirov** (2016). _UniMorph - Universal Morphology at JHU_. Center For Language and Speech Processing Seminar Series. Johns Hopkins University. [Video](http://www.clsp.jhu.edu/seminars/seminar-videos/)
 
-## Software Projects
+**Christo Kirov** (2015). The Consequences of Bayesian Decision-Making in Speech Production. Common Ground Speaker Series. University of Pennsylvania.
+
+## Presentations
+
+Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _The Pareto Complexity of Inflectional Systems_. SCIL. Salt Lake City, Utah.
+
+**Christo Kirov** (2017). _Recurrent Neural Networks as a Strong Baseline for Morphophonological Learning_. LSA. Austin, TX. 
+
+John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _Typology Enriching NLP: A Universal Schema for Inflectional Morphology_. ALT. New Mexico.
+
+**Christo Kirov** (2014). _Grammatical Influences in a Bayesian Speech Production Framework_. COGSCI. Quebec City, Quebec.
+
+**Christo Kirov** and Colin Wilson (2013). _Modeling the Relationship Between Competition, Latency, and Articulation_. LSA. Boston, MA.
+
+**Christo Kirov** and Colin Wilson (2012). _How Phonological Context Affects Phonetic Realization_.  LABPHON. Stuttgart, Germany.
+
+**Christo Kirov** and Colin Wilson (2012). _Modeling Speech Production with Bayesian Inference:  Competition, Latency, and Articulation_. APCAM. Minneapolis, MN.
+
+**Christo Kirov** and Colin Wilson (2012). _Specificity of Online Variation in Speech Production_.  LSA, Portland, Oregon.
+
+**Christo Kirov** and Colin Wilson (2011). _Explaining Online Hyperarticulation in Speech Production_. NECPHON, Yale University, New Haven, Connecticut.
+
+**Christo Kirov** (2008). _Forward and Reverse Recall in Simple Recurrent Networks_. COGSCI, Washington, D.C.
+
 
 ## Teaching
 
-Natural Language Processing (Georgetown University, Fall 2014)
+**Natural Language Processing** (Georgetown University, Fall 2014)
 
-Phonology/Phonetics I (Johns Hopkins University, Spring 2014)
+**Phonology/Phonetics I** (Johns Hopkins University, Spring 2014)
 
-Computational Phonology (Georgetown University, Spring 2014)
+**Computational Phonology** (Georgetown University, Spring 2014)
 
-Computational Corpus Linguistics (Georgetown University, Fall 2013)
+**Computational Corpus Linguistics** (Georgetown University, Fall 2013)
 
-Computational Corpus Linguistics (Georgetown University, Fall 2012)
+**Computational Corpus Linguistics** (Georgetown University, Fall 2012)
