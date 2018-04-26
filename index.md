@@ -9,10 +9,15 @@
 
 My interests span across topics in natural language processing, computational linguistics, linguistics, and cognitive science. I am a member of the UniMorph project (unimorph.org) in the Center for Language and Speech Processing at JHU.
 
+#Find Me
 
-**Contact**
+[Google Scholar](https://scholar.google.com/citations?user=OPQn46oAAAAJ&hl=en)
+
+#Contact
 
 ckirov gmail com
+
+#CV
 
 [**CV**](cv/latest.pdf)
 
