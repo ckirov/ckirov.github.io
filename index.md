@@ -14,7 +14,7 @@ I'm currently a Postdoctoral Fellow at the <a href="https://www.clsp.jhu.edu/">C
 </p>
 
 <p align="justify">
-I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans muliple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal operations and representations relate to human language performance.
+I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans multiple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal operations and representations relate to human language performance.
 </p>
 
 **Details**
@@ -29,7 +29,7 @@ ckirov gmail com
 
 ## Current Activities
 
-The **UniMorph** project provides morphologically-annotated lexical data and tools spanning a large, typologically diverse set of languages. Check [here](www.github.org) for an overview, or jump to our data portal [here](https://unimorph.github.io/).
+The **UniMorph** project provides morphologically-annotated lexical data and tools spanning a large, typologically diverse set of languages. Check [here](http://www.github.org) for an overview, or jump to our data portal [here](https://unimorph.github.io/).
 
 UniMorph is supported by the DARPA **LORELEI** (Low Resource Languages for Emergent Incidents) program, which is focused on developing language technologies to facilitate communication in disaster-prone areas of the world where translators are scarce.
 
