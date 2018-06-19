@@ -44,6 +44,13 @@ Morphological analysis software developed as part of UniMorph is available [here
 
 ## Publications
 
+
+**Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. (to appear)
+
+Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. (arxiv)
+
+Ryan Cotterell, **Christo Kirov**, Sebastian J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana.
+
 **Christo Kirov**, Ryan Cotterell, John Sylak-Glassman, Géraldine Walther, Ekaterian Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2018). _UniMorph 2.0: Universal Morphology_.  LREC. Miyazaki, Japan.
 
 Steven Shearing, **Christo Kirov**, Huda Khayrallah, and David Yarowsky (2018). _Improving Low Resource Machine Translation with Morphological Glosses_. AMTA. Boston, Massachusetts.
