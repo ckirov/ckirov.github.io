@@ -47,7 +47,7 @@ Morphological analysis software developed as part of UniMorph is available [here
 
 **Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. (to appear)
 
-Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. (arxiv)
+Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. [**arxiv**](https://arxiv.org/abs/1804.08262)
 
 Ryan Cotterell, **Christo Kirov**, Sebastian J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana. [**pdf**](http://aclweb.org/anthology/N18-2087)
 
@@ -97,7 +97,7 @@ John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A
 
 **Christo Kirov** (2016). _Building Strong Inductive Baselines for Computational Morphophonology_. New York University.
 
-**Christo Kirov** (2016). _UniMorph - Universal Morphology at JHU_. Center For Language and Speech Processing Seminar Series. Johns Hopkins University. [Video](http://www.clsp.jhu.edu/seminars/seminar-videos/)
+**Christo Kirov** (2016). _UniMorph - Universal Morphology at JHU_. Center For Language and Speech Processing Seminar Series. Johns Hopkins University. [**video**](http://www.clsp.jhu.edu/seminars/seminar-videos/)
 
 **Christo Kirov** (2015). The Consequences of Bayesian Decision-Making in Speech Production. Common Ground Speaker Series. University of Pennsylvania.
 
