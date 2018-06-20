@@ -49,45 +49,47 @@ Morphological analysis software developed as part of UniMorph is available [here
 
 Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. (arxiv)
 
-Ryan Cotterell, **Christo Kirov**, Sebastian J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana.
+Ryan Cotterell, **Christo Kirov**, Sebastian J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana. [**pdf**](http://aclweb.org/anthology/N18-2087)
 
-**Christo Kirov**, Ryan Cotterell, John Sylak-Glassman, Géraldine Walther, Ekaterian Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2018). _UniMorph 2.0: Universal Morphology_.  LREC. Miyazaki, Japan.
+**Christo Kirov**, Ryan Cotterell, John Sylak-Glassman, Géraldine Walther, Ekaterian Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2018). _UniMorph 2.0: Universal Morphology_.  LREC. Miyazaki, Japan. [**pdf**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/789.pdf)
 
-Steven Shearing, **Christo Kirov**, Huda Khayrallah, and David Yarowsky (2018). _Improving Low Resource Machine Translation with Morphological Glosses_. AMTA. Boston, Massachusetts.
+Steven Shearing, **Christo Kirov**, Huda Khayrallah, and David Yarowsky (2018). _Improving Low Resource Machine Translation with Morphological Glosses_. AMTA. Boston, Massachusetts. [**pdf**](papers/shearing2018AMTA.pdf)
 
 Robert Churchill, Lisa Singh, and **Christo Kirov** (2018). _A Temporal Topic Model for Noisy Mediums_. PAKDD. Melbourne, Australia.
 
 Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2017). _On the Complexity and Typology of Inflectional Morphological Systems_. TACL.
 
-Ryan Cotterell, Ekaterina Vylamova, Huda Khayrallah, **Christo Kirov**, and David Yarowsky (2017). _Paradigm Completion for Derivational Morphology_. EMNLP. Copenhagen, Denmark.
+Ryan Cotterell, Ekaterina Vylamova, Huda Khayrallah, **Christo Kirov**, and David Yarowsky (2017). _Paradigm Completion for Derivational Morphology_. EMNLP. Copenhagen, Denmark. [**pdf**](https://www.aclweb.org/anthology/D17-1074)
 
-Ryan Cotterell, **Christo Kirov**, John Sylak-Glassman, Géraldine Walther, Ekaterina Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2017). _CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages_. CoNLL. Vancouver, Canada.
+Ryan Cotterell, **Christo Kirov**, John Sylak-Glassman, Géraldine Walther, Ekaterina Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2017). _CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages_. CoNLL. Vancouver, Canada. [**pdf**](http://www.aclweb.org/anthology/K17-2001)
 
-**Christo Kirov**, John Sylak-Glassman, Ryan Cotterell, Rebecca Knowles, and Matt Post (2017). _A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax_. EACL. Valencia, Spain.
+**Christo Kirov**, John Sylak-Glassman, Ryan Cotterell, Rebecca Knowles, and Matt Post (2017). _A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax_. EACL. Valencia, Spain. [**pdf**](http://www.aclweb.org/anthology/E17-2018)
 
-Ryan Cotterell, **Christo Kirov**, and John Sylak-Glassman (2017). _Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion_. EACL. Valencia, Spain. **Outstanding Paper Award**.
+Ryan Cotterell, **Christo Kirov**, and John Sylak-Glassman (2017). _Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion_. EACL. Valencia, Spain. **Outstanding Paper Award**. [**pdf**](http://aclweb.org/anthology/E17-2120)
 
-Ryan Cotterell, **Christo Kirov**, John Sylak-Glassman, David Yarowsky, Jason Eisner, and Mans Hulden (2016). _The SIGMORPHON 2016 Shared Task - Morphological Reinflection_. Proceedings of the 2016 Meeting of SIGMORPHON. ACL. Linguistics. Berlin, Germany.
+Ryan Cotterell, **Christo Kirov**, John Sylak-Glassman, David Yarowsky, Jason Eisner, and Mans Hulden (2016). _The SIGMORPHON 2016 Shared Task - Morphological Reinflection_. Proceedings of the 2016 Meeting of SIGMORPHON. ACL. Linguistics. Berlin, Germany. [**pdf**](http://www.aclweb.org/anthology/W16-2002)
 
-**Christo Kirov**, John Sylak-Glassman, Roger Que, and David Yarowsky (2016). _Very-large Scale Parsing and Normalization of Wiktionary Morphological Paradigms_.  LREC. Portoroz, Slovenia.
+**Christo Kirov**, John Sylak-Glassman, Roger Que, and David Yarowsky (2016). _Very-large Scale Parsing and Normalization of Wiktionary Morphological Paradigms_.  LREC. Portoroz, Slovenia. [**pdf**](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1077_Paper.pdf)
 
-John Sylak-Glassman, **Christo Kirov**, and David Yarowsky (2016)._Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages_. LREC. Portoroz, Slovenia.
+John Sylak-Glassman, **Christo Kirov**, and David Yarowsky (2016)._Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages_. LREC. Portoroz, Slovenia. [**pdf**](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1031_Paper.pdf)
 
-John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A Language-Independent Feature Schema for Inflectional Morphology_. ACL. Beijing, China.
+John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A Language-Independent Feature Schema for Inflectional Morphology_. ACL. Beijing, China. [**pdf**](https://www.aclweb.org/anthology/P15-2111)
 
-John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A Universal Schema for Rich Morphological Annotation_.  SFCM. Stuttgart, Germany.
+John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A Universal Schema for Rich Morphological Annotation_.  SFCM. Stuttgart, Germany. [**pdf**](papers/sfcm2015.pdf)
 
-**Christo Kirov** and Colin Wilson (2013). _Bayesian Speech Production: Evidence from Latency and Hyperarticulation_. COGSCI. Berlin, Germany.
+**Christo Kirov** and Colin Wilson (2013). _Bayesian Speech Production: Evidence from Latency and Hyperarticulation_. COGSCI. Berlin, Germany. [**pdf**](papers/cogsci2013.pdf)
 
-**Christo Kirov** and Colin Wilson (2012). _The Specificity of Online Variation in Speech Production_. COGSCI. Sapporo, Japan.
+**Christo Kirov** and Colin Wilson (2012). _The Specificity of Online Variation in Speech Production_. COGSCI. Sapporo, Japan. [**pdf**](papers/cogsci2012.pdf)
 
-**Christo Kirov** and Bob Frank (2011). _Processing of Nested and Cross-Serial Dependencies: an Automaton Perspective on SRN Behavior_. Connection Science. Volume 24. Issue 1. pp. 1-24. 
+**Christo Kirov** and Bob Frank (2011). _Processing of Nested and Cross-Serial Dependencies: an Automaton Perspective on SRN Behavior_. Connection Science. Volume 24. Issue 1. pp. 1-24. [**pdf**](papers/connectionscience2011.pdf)
 
 **Christo Kirov** and Adamantios Gafos (2010). _Assembling Phonological Representations. Phonological and Complex Adaptive Systems: Phonology and Complexity_. Chitoran, Coupe, Marsico, Pellegrino (eds.), Mouton de Gruyter, Berlin/New York. 
 
 **Christo Kirov** and Adamantios Gafos (2007). _Dynamic Phonetic Detail in Lexical Representations_. ICPHS. Saarbrucken, Germany. pp. 637-640.
 
 ## Invited Talks
+
+**Christo Kirov** (2018). _Computational Morphology with UniMorph_. Army Research Laboratories
 
 **Christo Kirov** (2017). _Computational Morphophonology - Bridging NLP and Linguistics_. University of Chicago.
 
@@ -101,13 +103,13 @@ John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _A
 
 ## Presentations
 
-Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _The Pareto Complexity of Inflectional Systems_. SCIL. Salt Lake City, Utah.
+Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _The Pareto Complexity of Inflectional Systems_. SCIL. Salt Lake City, Utah. [**slides**](papers/scil2018.pdf)
 
-**Christo Kirov** (2017). _Recurrent Neural Networks as a Strong Baseline for Morphophonological Learning_. LSA. Austin, TX. 
+**Christo Kirov** (2017). _Recurrent Neural Networks as a Strong Baseline for Morphophonological Learning_. LSA. Austin, TX. [**poster**](papers/lsa2017.pdf)
 
 John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _Typology Enriching NLP: A Universal Schema for Inflectional Morphology_. ALT. New Mexico.
 
-**Christo Kirov** (2014). _Grammatical Influences in a Bayesian Speech Production Framework_. COGSCI. Quebec City, Quebec.
+**Christo Kirov** (2014). _Grammatical Influences in a Bayesian Speech Production Framework_. COGSCI. Quebec City, Quebec. [**poster**](papers/cogsci2014.pdf)
 
 **Christo Kirov** and Colin Wilson (2013). _Modeling the Relationship Between Competition, Latency, and Articulation_. LSA. Boston, MA.
 
@@ -133,3 +135,4 @@ John Sylak-Glassman, **Christo Kirov**, David Yarowsky, and Roger Que (2015). _T
 **Computational Corpus Linguistics** (Georgetown University, Fall 2013)
 
 **Computational Corpus Linguistics** (Georgetown University, Fall 2012)
+
