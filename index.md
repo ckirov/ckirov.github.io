@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img width="300" align="center" src="cropped.jpg"> 
+  <img alt="Christo Kirov" width="300" align="center" src="cropped.jpg"> 
 </p>
 
 ## About Me
