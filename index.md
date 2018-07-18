@@ -45,7 +45,7 @@ Morphological analysis software developed as part of UniMorph is available [here
 ## Publications
 
 
-**Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. (to appear)
+**Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. (to appear) [**arxiv**](https://arxiv.org/abs/1807.04783)
 
 Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. [**arxiv**](https://arxiv.org/abs/1804.08262)
 
