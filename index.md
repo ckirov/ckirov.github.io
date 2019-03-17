@@ -10,11 +10,11 @@
 ## About Me
 
 <p align="justify">
-I'm currently a Postdoctoral Fellow at the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, where I'm one of the main members of the <a href="http://www.unimorph.org">UniMorph</a> project. Before coming to JHU, I was a Postdoctoral Assistant Professor at the <a href="https://linguistics.georgetown.edu/">Georgetown Linguistics Department</a>. 
+I'm currently a research software engineer at Google NYC, in the Speech and Language algorithms group. Before this gig, I was a Postdoctoral Fellow at the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, where I helped start the <a href="http://www.unimorph.org">UniMorph</a> project. Before coming to JHU, I was a Postdoctoral Assistant Professor at the <a href="https://linguistics.georgetown.edu/">Georgetown Linguistics Department</a>. 
 </p>
 
 <p align="justify">
-I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans multiple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal operations and representations relate to human language performance.
+I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans multiple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, text normalization, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal operations and representations relate to human language performance.
 </p>
 
 **Details**
