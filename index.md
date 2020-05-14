@@ -10,7 +10,7 @@
 ## About Me
 
 <p align="justify">
-I'm currently a research software engineer at Google NYC, in the Speech and Language algorithms group. Before this gig, I was a Postdoctoral Fellow at the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, where I helped start the <a href="http://www.unimorph.org">UniMorph</a> project. Before coming to JHU, I was a Postdoctoral Assistant Professor at the <a href="https://linguistics.georgetown.edu/">Georgetown Linguistics Department</a>. 
+I'm currently a research software engineer at Google NYC, in the Speech and Language algorithms group. Before this, I was a Postdoctoral Fellow at the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, where I helped start the <a href="http://www.unimorph.org">UniMorph</a> project. Before coming to JHU, I was a Postdoctoral Assistant Professor at the <a href="https://linguistics.georgetown.edu/">Georgetown Linguistics Department</a>. 
 </p>
 
 <p align="justify">
@@ -31,9 +31,9 @@ ckirov gmail com
 
 The **UniMorph** project provides morphologically-annotated lexical data and tools spanning a large, typologically diverse set of languages. Check [here](http://www.github.org) for an overview, or jump to our data portal [here](https://unimorph.github.io/).
 
-UniMorph is supported by the DARPA **LORELEI** (Low Resource Languages for Emergent Incidents) program, which is focused on developing language technologies to facilitate communication in disaster-prone areas of the world where translators are scarce.
+Initial support for UniMorph was provided by the DARPA **LORELEI** (Low Resource Languages for Emergent Incidents) program, focused on developing language technologies to facilitate communication in disaster-prone areas of the world where translators are scarce.
 
-I am one of the organizers of the **CoNLL-SIGMORPHON 2018** shared task on morphological learning. Thanks to resources provided by UniMorph, the shared task covers over 100 languages! Check it out [here](https://sigmorphon.github.io/sharedtasks/2018/).
+I am one of the organizers of the **CoNLL-SIGMORPHON** shared tasks on morphological learning across hundreds of languages. Check them out [here](https://sigmorphon.github.io/sharedtasks/).
 
 
 ## Software
@@ -44,12 +44,15 @@ Morphological analysis software developed as part of UniMorph is available [here
 
 ## Publications
 
+Brian Roark, **Christo Kirov**, Cibu C Johny, Isin Demirsahin, Keith Hall, Lawrence Wolf-Sonkin, Sabrina J. Mielke (2020). _Processing South Asian languages Written in the Latin Script: the Dakshina Dataset_. LREC.
 
-**Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. (to appear) [**arxiv**](https://arxiv.org/abs/1807.04783)
+Amrit Nidhi, Arya McCarthy, Cassandra L. Jacobs, **Christo Kirov**, David Yarowsky, Ekaterina Vylomova, Garrett Nicolai, Kyle Gorman, Mans Hulden, Matteo Grella, Miikka Silfverberg, Patrick Xia, Ryan Cotterell, Sabrina J. Mielke, Yuval Pinter (2020). _UniMorph 3.0: Universal Morphology_. LREC.
+
+**Christo Kirov** and Ryan Cotterell (2018). _Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate_. TACL. [**arxiv**](https://arxiv.org/abs/1807.04783)
 
 Ryan Cotterell, **Christo Kirov**, Mans Hulden, and Jason Eisner (2018). _On the Diachronic Stability of Irregularity in Inflectional Morphology_. NAACL. [**arxiv**](https://arxiv.org/abs/1804.08262)
 
-Ryan Cotterell, **Christo Kirov**, Sebastian J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana. [**pdf**](http://aclweb.org/anthology/N18-2087)
+Ryan Cotterell, **Christo Kirov**, Sabrina J. Mielke, and Jason Eisner (2018). _Unsupervised Disambiguation of Syncretism in Inflected Lexicons_. NAACL. New Orleans, Louisiana. [**pdf**](http://aclweb.org/anthology/N18-2087)
 
 **Christo Kirov**, Ryan Cotterell, John Sylak-Glassman, Géraldine Walther, Ekaterian Vylamova, Patrick Xia, Manaal Faruqui, Sandra Kübler, David Yarowsky, Jason Eisner, and Mans Hulden (2018). _UniMorph 2.0: Universal Morphology_.  LREC. Miyazaki, Japan. [**pdf**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/789.pdf)
 
