@@ -14,7 +14,7 @@ I'm currently a research software engineer at Google NYC, in the Speech and Lang
 </p>
 
 <p align="justify">
-I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans multiple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, text normalization, tagging, and machine translation. I lean heavily on state-of-the-art machine learning methods, especially deep learning neural networks. I'm also interested in improving these models by focusing on system interpretability and understanding how their internal operations and representations relate to human language performance.
+I received my B.A. in Computer Science and Linguistics from New York University (advisor: Adamantios Gafos), and my Ph.D. in Cognitive Science from Johns Hopkins (advisor: Colin Wilson). My current work spans multiple topics in Natural Language Processing (NLP) and Computational Linguistics. I have a special interest in NLP for low-resource, morphologically rich languages, including morphological learning, text normalization, tagging, transliteration, and machine translation.
 </p>
 
 **Details**
@@ -37,8 +37,6 @@ I am one of the organizers of the **CoNLL-SIGMORPHON** shared tasks on morpholog
 
 
 ## Software
-
-See my GitHub page [here](https://github.com/ckirov/).
 
 Morphological analysis software developed as part of UniMorph is available [here](https://github.com/unimorph/analyzers).
 
